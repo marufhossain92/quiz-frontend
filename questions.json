@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "'OS' computer abbreviation usually means?",
+    "options": [
+      "Order of Significance",
+      "Open Software",
+      "Operating System",
+      "None of these"
+    ],
+    "correctOptionIndex": "2"
+  },
+  {
+    "id": 2,
+    "title": "2+4?",
+    "options": ["5", "10", "6", "None of these"],
+    "correctOptionIndex": "3"
+  },
+  {
+    "id": 3,
+    "title": "10/2?",
+    "options": ["3", "5", "7", "None of these"],
+    "correctOptionIndex": "2"
+  },
+  {
+    "id": 4,
+    "title": "What is 100*2?",
+    "options": ["200", "100", "300", "None of these"],
+    "correctOptionIndex": "1"
+  },
+  {
+    "id": 5,
+    "title": "Which is true?",
+    "options": ["10 - 2 = 7", "20 / 2 = 10", "Both", "None of these"],
+    "correctOptionIndex": "2"
+  }
+]
